@@ -1,0 +1,221 @@
+
+ .gird-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 100px;
+    background-color: black;
+    color:white;
+    padding: 30px;
+    
+    }
+ a{
+    color: white;
+}
+ li{
+        display: inline-flex;
+         padding: 20px;
+        }
+.hloo{
+    background-color:black;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 100px;
+    
+    color: white;
+    border: 2px solid white;
+}
+    h5{
+    color: greenyellow;
+    margin: 90px;
+}
+.oneik{
+    color: greenyellow;
+    
+}
+.eye{
+    margin: 90px;
+}
+.gird-3container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:30px;
+    margin: 30px;
+    border-radius: 20px;
+    
+}
+.love{
+    margin-left: 50px;
+    
+}
+.me{
+    position: absolute;
+        bottom: 0;
+        width: 100px;
+        background-color: rgba(0, 0, 0, 0);
+        color: whitesmoke;
+        text-align: center;
+        padding: 10px;
+        font-size: 100px;
+}
+.nice{
+    margin: 40px;
+    border-radius: 20px;
+}
+.item1{
+    
+   height: 350px;
+   width: 500px;
+   text-align: justify;
+  margin-left: 50px;
+   margin-bottom: 50px;
+ border: 2px solid white;
+ 
+}
+.us{
+    margin-left: 150px;
+    text-align: left;
+    margin: 10px;
+}
+.get{
+    background-color:greenyellow;
+    margin-left: 100px;
+margin-top: 10px;
+    padding: 20px;
+    width: 300px;
+    border-radius: 100px;
+    color: white;
+    border: 2px solid greenyellow;
+}
+.happy{
+    background-color: greenyellow;
+    color: white;
+    font-size: 70px;}
+
+.gird-4container{
+display: grid;
+grid-template-columns: repeat(2,1fr);
+gap: 50px;
+}
+.hand{
+    margin-left: 90px;
+}
+.letter{
+    color: grey;
+}
+.gird-5container{
+     display: grid;
+     grid-template-columns: repeat(4,1fr);
+     gap: 10px;
+
+}
+.garden{
+    background-color: white;
+    margin-right:20px;
+    margin-left: 700px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 9px;
+    border-radius: 100px;
+    text-align: center;
+    color: black;
+    border: 2px solid black;
+}
+.gird-6container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+}
+.good{
+    margin-left: 100px;
+    color: yellowgreen;
+}
+.hp{
+    margin-left: 100px;
+}
+.dog{
+    color: yellowgreen;
+}
+.cat{
+    margin-left: 100px;
+}
+.cat1{
+    margin-left: 100px;
+    background-color: white;
+    border: 1px solid black;
+}
+.item4{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+.item3{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+  border-radius: 10px;
+    margin-left: 150px;
+    }
+.gird-7container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 100px;
+}
+.dog2{
+    text-align: center;
+    margin-right: 200px;
+}
+.cat3{
+    margin-left: 150px;
+    font-size: 90px;
+    color: rgb(150, 148, 148);
+}
+.ear{
+    font-size: small;
+    color: rgb(82, 81, 81);
+}
+.cat4{
+    margin-left: 80px;
+    font-size: 90px;
+    color: rgb(150, 148, 148);
+}
+.cat5{
+    margin-left: 40px;
+    font-size: 90px;
+    color: rgb(150, 148, 148);
+}
+.cat6{
+    font-size: 90px;
+    color: rgb(150, 148, 148); 
+}
+.wonder{
+    margin-left: 150px;
+    color: greenyellow;
+}
+.gird-8container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 400px;
+}
+.wonder2{
+    margin-left: 150px;
+    font-size: 50px;
+}
+.wonder3{
+    margin-left: 180px;
+    margin-top: 90px;
+}
+.rose{
+    background-color: white;
+    color: black;
+}
+table{
+    margin-left: 150px;
+    font-size: 15px;
+    text-align: center;
+    
+}
+.hema{
+    color: yellowgreen;
+    text-align: center;
+}

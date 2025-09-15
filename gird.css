@@ -1,0 +1,199 @@
+
+.gird-container{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:500px;
+    background-color: pink;
+ margin: 10px;
+ padding: 10px;
+}
+button{
+    background-color: red;
+    font-size: x-large;
+    border-radius: 6px;
+}
+.gird-1container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+    background-color: pink;
+   margin: 10px;
+   padding: 10px;
+
+}
+.two{
+    display: inline-block;
+    background-color: #e91e63;
+    border: 2px soild black;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.gird-5container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 150px;
+}
+.gird-2item{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.gird-3item{
+   border: 3px solid white;
+    background-color: white;
+    text-align: center;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+    margin-left:10px;
+    height: 250px;
+    width: 250px;
+    }
+ .gird-4item{
+    border: 3px solid white;
+    background-color: white;
+    text-align: center;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+    margin-left:10px;
+    height: 250px;
+    width: 250px;
+    } 
+    .gird-5item{
+        border: 3px solid white;
+    background-color: white;
+    text-align: center;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+    margin-left:10px;
+    height: 250px;
+    width: 250px;
+    }  
+    .gird-6item{
+      border: 3px solid white;
+    background-color: white;
+    text-align: center;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+    margin-left:10px;
+    height: 250px;
+    width: 250px;
+    }   
+    .gird-7item{
+       border: 3px solid white;
+    background-color: white;
+    text-align: center;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+    margin-left:10px;
+    height: 250px;
+    width: 250px; 
+    } 
+    .gird-4container{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        gap:50px;
+    }
+    .item1{
+        margin: 10px;
+         position: relative;
+        overflow: hidden;
+        height: 400px;
+        width: 350px;
+        border-radius: 10px;
+    }
+    .you{
+        position: absolute;
+        bottom: 0;
+        width: 100px;
+        background-color: rgba(0, 0, 0, 0);
+        color: whitesmoke;
+        text-align: center;
+        padding: 10px;
+        font-size: 16px;
+    }
+    .item2{
+         margin: 10px;
+         position: relative;
+        overflow: hidden;
+        height: 400px;
+        width: 450px;
+        border-radius: 10px;
+        
+    }
+    .item3{
+        margin: 10px;
+         position: relative;
+        overflow: hidden;
+        height: 400px;
+        width: 450px;
+        border-radius: 10px;
+    }
+    .gird-2container{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        gap: 100px;
+        margin: 60px;
+    }
+    .gird-3container{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 10px;
+    }
+    .list-item{
+        margin: 20px;
+        padding: 30px
+    }
+    .first-item{
+        background-color: #fff;
+        border: 3px solid #ddd;
+        padding: 20px;
+        width: 250px;
+        height: 380px;
+        border-radius: 10px;
+        text-align: center;
+    }
+    h3{
+        font-size: large;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+    
+    .second-item{
+         background-color: #fff;
+        border: 3px solid #ddd;
+        padding: 20px;
+        width: 250px;
+        height: 380px;
+        text-align: center;
+    }
+    .third-item{
+        background-color: #fff;
+        border: 3px solid #ddd;
+        padding: 20px;
+        width: 250px;
+        height: 380px;
+        text-align: center;
+    }
+    #hg{
+        color: pink;
+    }
